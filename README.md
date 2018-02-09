@@ -8,6 +8,10 @@ SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
+     Did not complete last two Triangle configurations, SSA, and SSS. For triangle #4 I was not able to get 
+the arcsin function to operate as expected in order to solve for one of the unknown angles. Script will still run without error, 
+however, it does not generate the proper values for angle B and therefor produces the wrong values for angle C.
+
 Notes:  
 
 
