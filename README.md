@@ -12,6 +12,9 @@ Unresolved Issues:
 the arcsin function to operate as expected in order to solve for one of the unknown angles. Script will still run without error, 
 however, it does not generate the proper values for angle B and therefor produces the wrong values for angle C.
 
+**I believe I fixed the issue I had using arcsin function. Just was not able to complete last 2.
+
+
 Notes:  
 
 
