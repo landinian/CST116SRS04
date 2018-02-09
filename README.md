@@ -2,7 +2,7 @@
 Triangle
 
 
-Class ID: 
+Class ID: Lillipup
 
 SRS ID: CST116SRS04
 
